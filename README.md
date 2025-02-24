@@ -1,7 +1,6 @@
 # Foundational Data Structures and Sorting Algorithms: A Complete Collection
 
-This repository provides a comprehensive collection of foundational data structures and sorting algorithms implemented in C. It covers various key topics, from basic operations in stacks, queues, and linked lists to sorting algorithms like Bubble Sort and Merge Sort. Each program demonstrates practical implementations, along with additional topics like search algorithms and algorithm performance analysis.
-
+This repository provides a comprehensive collection of foundational data structures and sorting algorithms implemented in C. It covers various key topics, from basic operations in stacks, queues, and linked lists to sorting algorithms like Bubble Sort and Merge Sort. 
 ## Topics Covered
 
 - **Stacks**: Basic operations, including push, pop, peek, and additional applications such as prime factorization and decimal to binary conversion.
